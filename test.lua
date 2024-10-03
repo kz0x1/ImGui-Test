@@ -1,3 +1,5 @@
+-- will this fucking work? i have no idea! :D
+
 local UILib = loadstring(game:HttpGet('https://raw.githubusercontent.com/StepBroFurious/Script/main/HydraHubUi.lua'))()
 local Window = UILib.new("Sinister TEST", game.Players.LocalPlayer.UserId, "Free")
 local Category1 = Window:Category("Main", "http://www.roblox.com/asset/?id=8395621517")
